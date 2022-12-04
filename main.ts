@@ -21,6 +21,7 @@ export default class BujoCheckboxes extends Plugin {
 		this.addCommand({
 		    id: 'toggle-bujo-checkboxd',
 		    name: 'Toggle BuJo Checkbox',
+		    icon: "cross-in-box",
 		    editorCallback: (editor: Editor, view: MarkdownView) => {
 			console.log('toggle bujo checkbox');
 			this.toggleTodos(editor, true);
