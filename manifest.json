@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-bujo-checkboxes",
+	"name": "BuJo Checkboxes",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Use different checkbox states",
+	"author": "dmych",
+	"authorUrl": "https://github.com/dmych/obsidian-bujo-checkboxes",
 	"isDesktopOnly": false
 }
